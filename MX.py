@@ -1,2 +1,2 @@
 import MAXTAN
-MATXTAN.__APPROVAL__()
+MAXTAN.__APPROVAL__()
